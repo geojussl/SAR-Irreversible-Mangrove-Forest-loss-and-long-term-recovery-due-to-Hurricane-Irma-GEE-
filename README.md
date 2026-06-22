@@ -1,6 +1,7 @@
 # Irreversible Mangrove Forest Loss after Hurricane Irma in Florida (2017)
+This study is Part of the Course:  MNF-Geogr-332: Remote Sensing and Environmental Modelling - Synthetic Aperture Radar (Exercise) (060174) SoSe 2026 
 
-## Overview
+## Project Overview
 
 This repository contains the code and data used for a remote sensing case study on **persistent mangrove forest loss after Hurricane Irma in Southwest Florida**. The analysis focuses on mangrove-dominated areas around the **Everglades National Park**, where Hurricane Irma caused substantial wind, storm surge and inundation impacts in September 2017.
 The main objective is to identify areas where mangrove-like vegetation showed a strong vegetation decline directly after Hurricane Irma and did not recover to pre-event conditions in the following years, Using Sentinel-1 and Sentinel-2 Data.
